@@ -1,2 +1,9 @@
 # Python-for-Data-Science
-Python Libraries(NumPy, pandas, Matplotlib, TensorFlow, etc.)
+## Content
+1. Python Get Started notebooks
+2. Python Libraries
+    * NumPy
+    * pandas
+    * Matplotlib
+    * TensorFlow
+ 
