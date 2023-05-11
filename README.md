@@ -1,5 +1,5 @@
 # Python for Data Science
-This project helps to learn Python for Data Science
+This project was created to help those learning python for data science.
 
 ## Content
 1. Python Get Started notebooks
